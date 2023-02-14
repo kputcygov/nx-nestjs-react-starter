@@ -1,6 +1,6 @@
 # NX NestJS React starter
 
-Bootstrapped, ready-for-production (Mono-)Repository for TypeScript environments using NestJS + React.
+Bootstrapped, ready-for-production (Mono-)Repository for TypeScript environments using NestJS + React. 
 This project was generated using [Nx](https://nx.dev).
 
 🔎 **Smart, Extensible Build Framework**
